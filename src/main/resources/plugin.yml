@@ -1,0 +1,4 @@
+name: WBAPI
+version: '${version}'
+main: dev.xsenny.wbapi.WBAPI
+api-version: '1.18'
